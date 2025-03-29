@@ -12,8 +12,6 @@ Welcome to the Data Mining and Machine Learning course repository. This reposito
 - [How to Use the Materials](#how-to-use-the-materials)
 - [Project Guidelines](#project-guidelines)
 - [Contributing](#contributing)
-- [Contacts & Support](#contacts--support)
-- [License](#license)
 
 ## Course Overview
 
@@ -71,3 +69,27 @@ To run the course materials locally, follow these steps:
    ```bash
     https://github.com/Hassan0-51/Data-Mining-and-Machine-learning-.git
    cd Data-Mining-and-Machine-learning
+
+## How to Use the Materials
+. For Students: Follow the lecture order and complete the lab assignments as per the course schedule.
+
+. For Instructors: Feel free to customize the materials as needed.
+
+. For Collaborators: Check the issues and pull requests for ongoing discussions or to contribute improvements.
+
+## Project Guidelines
+. Projects are an essential part of the course. Each project should include:
+
+. A clear problem statement and objectives.
+
+. Detailed data preprocessing and feature engineering steps.
+
+. Implementation of appropriate machine learning techniques.
+
+. Evaluation of model performance.
+
+. A concise report summarizing your findings and insights.
+
+
+
+
